@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital@1&display=swap');
+
+
+.my-name{
+    font-size: 2rem;
+}
+
+.title-body{
+    padding: 8% 17%;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+}
+.title-body h1{
+    font-size: 4rem;
+}
+
+#projects{
+    background-color: #45567d;
+    
+}
+
+.project-heading{   
+    color: #fff;
+    padding: 2% 20%;   
+}
+
+.project-heading h2{
+    text-align: center;
+    font-size: 3rem;
+    padding-bottom: 2%;
+    border-bottom: 2px solid #fff;
+}
+
+.project-row{
+    padding: 3% 6% 6% 6%;
+}
+
+.parent-card{
+    margin: 1% 0%;
+}
+
+.card-body{
+    text-align: center;
+    background-color: #333;
+   
+    font-family: "Ubuntu";
+    font-size: 1.5rem;
+}
+
+.card-body a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.card-body a:hover{
+    color: aqua;
+}
+
+#footer{
+    background-color: #333;
+    color: #fff;
+    padding: 8% 25%;
+    text-align: center;
+}
+
+.title-footer{
+    margin-bottom: 10%;
+}
+
+.title-footer h1{
+    font-size: 4rem;
+}
+
+.link-footer a{
+    text-decoration: none;
+    color: #fff;
+    margin: 0 3%;
+    font-size: 1.2rem;
+}
+
+.link-footer a:hover{
+    color: #8f8f8f;
+}
